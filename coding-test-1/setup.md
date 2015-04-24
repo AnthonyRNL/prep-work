@@ -19,7 +19,7 @@ Nitrous.io**. Here are the key steps:
 
 **You should be able to do all the prepwork using nitrous.io.**
 
-[nitrous.io]: https://www.nitrous.io/
+[nitrous.io]: https://lite.nitrous.io/
 [video-demo]: https://vimeo.com/109200633
 
 ## Advanced Setup
