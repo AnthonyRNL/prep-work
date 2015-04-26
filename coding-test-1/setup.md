@@ -4,7 +4,15 @@
 
 It is not required to install Ruby on your own machine before the
 coding challenge. The easiest way to start using Ruby is to use
-[nitrous.io][nitrous.io]; it is free.
+[nitrous.io (https://lite.nitrous.io)][nitrous.io]; **You must use 
+this link to access the free version** as Nitrous has introduced a 
+new version of their product that requires a waiting list if you 
+try and sign up through their website. This free version of 
+Nitrous.io will be available until July 1st.
+
+Again, do not try to access Nitrous through their main site. You 
+must use this link ([https://lite.nitrous.io/][nitrous.io]) to 
+access the free version.
 
 **We've recorded a [video demo][video-demo] of how to use
 Nitrous.io**. Here are the key steps:
